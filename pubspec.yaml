@@ -1,0 +1,64 @@
+name: group
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  get: ^4.3.8
+  sizer: ^2.0.15
+  dismiss_keyboard_on_tap: ^1.0.1
+  flutter_svg: ^0.22.0
+  flutter_easyloading: ^3.0.3
+  animated_text_kit: ^4.2.1
+  google_fonts: ^2.1.0
+  flutter_staggered_animations: ^1.0.0
+  pull_to_refresh: ^2.0.0
+  like_button: ^2.0.3
+  animate_do: ^2.0.0
+  image_picker: ^0.8.4+2
+  decorated_icon: ^1.2.1
+  font_awesome_flutter: ^9.1.0
+  path: ^1.8.0
+  cached_network_image: ^3.1.0
+  get_storage: ^2.0.3
+  flutter_animated_dialog: ^2.0.1
+
+  firebase_core: ^1.7.0
+  firebase_storage: ^10.0.4
+  cloud_firestore: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: LuxoraGrotesk
+      fonts:
+        - asset: assets/fonts/LuxoraGrotesk-Regular.ttf
+        - asset: assets/fonts/LuxoraGrotesk-Italic.ttf
+          style: italic
+        - asset: assets/fonts/LuxoraGrotesk-Thin.ttf
+          weight: 300
+        - asset: assets/fonts/LuxoraGrotesk-Thin.ttf
+          weight: 400
+        - asset: assets/fonts/LuxoraGrotesk-Bold.ttf
+          weight: 700

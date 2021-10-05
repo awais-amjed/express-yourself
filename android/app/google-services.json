@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1042168814880",
+    "project_id": "express-yourself-59469",
+    "storage_bucket": "express-yourself-59469.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042168814880:android:986bade468bbdb9fe44b45",
+        "android_client_info": {
+          "package_name": "coding.fries.express_yourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042168814880-7k1o05di5kntep5jlh6qv53ktdnes85i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coding.fries.express_yourself",
+            "certificate_hash": "d8ea445ea54f3c548c58b614e2c72e93935d78d5"
+          }
+        },
+        {
+          "client_id": "1042168814880-narffljp36eka5b7ef3aokof6bt1rnmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB--GyYCyndZ9qMYHRwAWSbHC1TvhK1GqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042168814880-narffljp36eka5b7ef3aokof6bt1rnmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
