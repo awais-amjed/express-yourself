@@ -16,4 +16,5 @@ Developed with firebase backend.
 3- Add the google-services.json file<br/>
 4- Compile and Run<br/>
 
-If you it - give it a star :D
+## Like it?
+Give it a star :D
