@@ -1,7 +1,6 @@
 # Express Yourself
 
-A flutter application created as a challenge in a day with functionality similar to Facebook groups with some eye-catching animations.
-
+A flutter application created as a challenge in a day with functionality similar to Facebook groups with some eye-catching animations.<br/>
 You can create new groups or post stuff in existing groups.
 
 Developed with firebase backend.
@@ -12,7 +11,7 @@ Developed with firebase backend.
 
 ## Compile Yourself
 
-1- Clone the project
-2- Run flutter pub get
-3- Add the google-services.json file
-4- Compile and Run
+1- Clone the project<br/>
+2- Run flutter pub get<br/>
+3- Add the google-services.json file<br/>
+4- Compile and Run<br/>
