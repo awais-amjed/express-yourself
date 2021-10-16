@@ -7,4 +7,4 @@ Developed with firebase backend.
 
 ## Screenshots
 
-![Alt text](./screenshots/1.png?raw=true)
+<img src="./screenshots/1.png?raw=true" width="48">
