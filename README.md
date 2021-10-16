@@ -7,4 +7,4 @@ Developed with firebase backend.
 
 ## Screenshots
 
-<img src="./screenshots/1.png?raw=true" width="48">
+<img src="./screenshots/1.png?raw=true" height="300">
